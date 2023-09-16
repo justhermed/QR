@@ -68,3 +68,4 @@ def decode_qr(qrCode):
 
 def get_certificate_from_blockchain(certificateId):
     pass
+
